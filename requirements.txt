@@ -1,0 +1,10 @@
+numpy
+scikit-learn
+pytorch
+pandas
+tensorflow
+seaborn
+matplotlib
+jupyter
+memory_profiler
+xgboost
